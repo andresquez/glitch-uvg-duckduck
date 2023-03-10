@@ -1,10 +1,11 @@
 import { useState } from 'react'
 import './App.css'
-import MainClass from './components/searchBar/input/input.jsx'
+import Global from './components/Global/Global.jsx'
+
 
 const App = () => {
   return (
-    <MainClass />
+    <Global />
     
   )
 }

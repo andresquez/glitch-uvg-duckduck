@@ -1,7 +1,7 @@
-import './input.css'
+import './searchBar.css'
 import Button from '../Button/Button.jsx'
 
-const input = () => {
+const SearchBar = () => {
     return (
         <div className='searchbar'>
             <input type="text" className='input' placeholder='hola' />
@@ -10,4 +10,4 @@ const input = () => {
     )
 }
 
-export default input
+export default SearchBar
