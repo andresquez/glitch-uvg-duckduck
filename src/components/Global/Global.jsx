@@ -1,5 +1,5 @@
 import InstallTo from '../InstallTo/InstallTo.jsx'
-import SearchBar from '../SearchBar/input/SearchBar.jsx'
+import SearchBar from '../SearchBar/SearchBar.jsx'
 
 const Global = () => {
     return (
